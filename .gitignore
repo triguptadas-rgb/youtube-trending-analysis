@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated output (optional — remove these lines if you want to commit charts)
+charts/
+data/
+
+# Secrets — NEVER commit your API key
+secrets.py
+config_local.py

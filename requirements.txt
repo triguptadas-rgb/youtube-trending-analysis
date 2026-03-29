@@ -1,0 +1,5 @@
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+notebook>=7.0
+google-api-python-client>=2.100   # optional — only for live YouTube API data
